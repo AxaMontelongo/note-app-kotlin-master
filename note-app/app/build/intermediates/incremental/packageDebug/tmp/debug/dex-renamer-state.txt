@@ -1,0 +1,4 @@
+#Tue Jun 15 20:37:01 CDT 2021
+base.0=C\:\\Users\\monte\\Desktop\\note-app-kotlin-master\\note-app\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
